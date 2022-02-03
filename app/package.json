@@ -1,0 +1,14 @@
+{
+  "name": "current-crypto-prices",
+  "version": "1.0.0",
+  "description": "Pulls from Binance public API to display cryptocurreny information in a table",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Slater",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
